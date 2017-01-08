@@ -1,5 +1,5 @@
 # An-E-commerce-Created-Using-Django
-This is an E-commerce site where we will create  a site which client can be able to view a list of music instruments on our site, view a single instrument on its on page, and the product to a shopping cart.
+This is an E-commerce site where we will create  a site which client can be able to view a list of music instruments on our site, view a single instrument on its on page, and add product to a shopping cart.
 I will also integrate our system with a payment system like stripe but we will take it one step at time.
 
 ## Our Technology
@@ -8,8 +8,11 @@ Twitter Bootstrap Framework for our front-end.
 
 ### Project Status
 So far we have created I simple function to render our index page, we can also be able to serve our static files
-like css, js, image etc. We have also configure our database setting, we will be using mysql but you can use
-the database of your choice. Django support some of the most popular databases like oracle, sqlite etc.
+like css, js, image etc. We have also configured our database settings, we will be using mysql but you can use
+the database of your choice. Django support some of the most popular databases like oracle, sqlite etc. Today I
+got a chance to integrate our site with Bootstrap Framework. Modern site requires you to target mobile phones
+and Bootstrap gives that ability due to responsiveness. In this project we will focus more on logic, design will
+done later later stages.
 
 ### Motivation
 The main reason behind the creation of this project is to set a new challenge for myself because as programmer
